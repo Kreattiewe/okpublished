@@ -1,5 +1,9 @@
 source "https://rubygems.org/"
 
-gemspec
 
-gem 'httparty'
+#socialtools
+gem 'twitter'
+gem "koala"
+
+
+gemspec
